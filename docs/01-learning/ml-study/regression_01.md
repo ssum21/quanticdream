@@ -1,4 +1,4 @@
-# 📈 회귀분석 마스터하기 01
+# 선형회귀분석 (Linear regression analysis)
 
 ## 1. 개요: 회귀분석의 세계로
 
