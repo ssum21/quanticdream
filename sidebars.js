@@ -55,7 +55,18 @@ const sidebars = {
     {
       type: 'category',
       label: '👥 팀 및 운영',
-      items: ['placeholder'],
+      items: [
+        {
+          type: 'doc',
+          id: 'team/kaggle_tier_system', // 경로 수정됨
+          label: 'Kaggle 티어 시스템이란?',
+        },
+        {
+          type: 'doc',
+          id: 'team/KHU_SERAPH_GUIDE',
+          label: '경희대학교 세라프 이용 가이드',
+        },
+      ],
     },
   ],
 };
